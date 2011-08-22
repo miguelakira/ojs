@@ -1,0 +1,17 @@
+<?php return array (
+  'plugins.generic.counter.description' => 'Esta ferramenta permite armazenar e produzir relatórios compatíveis com a iniciativa <a href="http://www.projectcounter.org/about.html" target="_new">COUNTER</a>, sobre a atividade no portal.',
+  'plugins.generic.counter' => 'Estatísticas COUNTER',
+  'plugins.generic.counter.1a.title' => 'Relatório 1 (R2): Solicitações de texto completo de artigos por mês e revista',
+  'plugins.generic.counter.1a.title1' => 'Relatório 1 (R2)',
+  'plugins.generic.counter.1a.title2' => 'Número de solicitações bem-sucedidas de texto completo de artigos por mês e revista (Ano {$year})',
+  'plugins.generic.counter.1a.dateRun' => 'Data da execução:',
+  'plugins.generic.counter.1a.publisher' => 'Editora',
+  'plugins.generic.counter.1a.platform' => 'Plataforma',
+  'plugins.generic.counter.1a.printIssn' => 'ISSN impresso',
+  'plugins.generic.counter.1a.onlineIssn' => 'ISSN eletrônico',
+  'plugins.generic.counter.1a.ytdTotal' => 'Total YTD',
+  'plugins.generic.counter.1a.ytdHtml' => 'HTML YTD',
+  'plugins.generic.counter.1a.ytdPdf' => 'PDF YTD',
+  'plugins.generic.counter.1a.totalForAllJournals' => 'Total para todas as revistas',
+  'plugins.generic.counter.migrate' => 'Migrar arquivo de log.',
+); ?>
